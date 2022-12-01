@@ -1,0 +1,15 @@
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/bin/Debug/net7.0/Task6
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/bin/Debug/net7.0/Task6.deps.json
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/bin/Debug/net7.0/Task6.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/bin/Debug/net7.0/Task6.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/refint/Task6.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar011222_Domashka/Task6/obj/Debug/net7.0/ref/Task6.dll
